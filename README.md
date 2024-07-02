@@ -68,3 +68,5 @@ Before running the code, ensure that the paths represented by `...` are updated 
 
 - Configuration changes can be done using `config.yaml`.
 - Ensure that the paths in the configuration file are updated according to your setup.
+
+Special thanks to [PointNet-PyTorch](https://github.com/meder411/PointNet-PyTorch.git) for their PointNet reimplementation.
